@@ -64,6 +64,70 @@
 
 ---
 
+Visual Roadmap for 10-Day MySQL Mastery**
+
+```
+Day 1: DBMS Fundamentals
+   ├─ RDBMS Concepts
+   ├─ ER Diagrams & Data Models
+   └─ Create sample database & tables
+
+Day 2: SQL Basics
+   ├─ DDL (CREATE, ALTER, DROP)
+   ├─ DML (INSERT, UPDATE, DELETE)
+   ├─ DCL (GRANT, REVOKE)
+   └─ TCL (COMMIT, ROLLBACK, SAVEPOINT)
+
+Day 3: Advanced SQL Queries
+   ├─ SELECT, WHERE, ORDER BY
+   ├─ GROUP BY, HAVING, Aggregate Functions
+   ├─ JOINs (INNER, LEFT, RIGHT, FULL, CROSS)
+   └─ Subqueries & Nested Queries
+
+Day 4: Normalization & Schema Design
+   ├─ 1NF, 2NF, 3NF, BCNF
+   ├─ Denormalization
+   ├─ ER-to-Relational Mapping
+   └─ Indexing Basics
+
+Day 5: Advanced SQL Features
+   ├─ Views & Materialized Views
+   ├─ Stored Procedures & Functions
+   ├─ Triggers & Events
+   └─ Transactions & ACID Properties
+
+Day 6: Performance & Optimization
+   ├─ Indexing strategies
+   ├─ Query Execution Plans
+   ├─ Query Optimization
+   └─ Partitioning & Sharding
+
+Day 7: Security & Backup
+   ├─ User Management & Privileges
+   ├─ SQL Injection Prevention
+   ├─ Backup & Restore
+   └─ Encryption Basics
+
+Day 8: NoSQL Overview & Integration
+   ├─ NoSQL vs SQL
+   ├─ Python/Java MySQL Integration
+   └─ CRUD Operations with External Applications
+
+Day 9: Real-Time Projects Part 1
+   ├─ E-commerce DB
+   ├─ Inventory Management
+   └─ Employee Management System
+
+Day 10: Real-Time Projects Part 2 & Revision
+   ├─ Banking System
+   ├─ Hotel Reservation
+   ├─ Logistics/Shipment Tracker
+   └─ Full Project Review & Optimization
+```
+
+---
+
+
 
 
 1. Use **MySQL Workbench** for visual DB design.
