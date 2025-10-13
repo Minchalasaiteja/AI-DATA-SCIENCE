@@ -1,6 +1,7 @@
 
 ---
 
+
 ## **1. DBMS & MySQL Mastery Syllabus (10 Days)**
 
 | Unit       | Topic                                      | Subtopics                                                                                                                                                                                                              | Practice/Hands-on                                                                                                   |
