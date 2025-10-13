@@ -1,10 +1,11 @@
 **complete, detailed syllabus for MySQL**, 
 
-**university-level + industry-ready curriculum**, designed to take you from beginner → advanced → expert MySQL developer / data analyst level.
+**university-level + industry-ready curriculum**
+**designed to take you from beginner → advanced → expert MySQL developer / data analyst level.**
 
 ---
 
-#  **Complete MySQL Syllabus **
+#  Complete MySQL Syllabus 
 
 ---
 
