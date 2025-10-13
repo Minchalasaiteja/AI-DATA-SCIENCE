@@ -62,6 +62,3 @@
 
 ---
 
-If you want, I can **also prepare a ready-made “Day-by-Day MongoDB PDF”** with **visual ER diagrams, schema examples, solved aggregation queries, index examples, and homework exercises**, so you can **directly practice and compare your solutions**.
-
-Do you want me to prepare that PDF next?
