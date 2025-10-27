@@ -98,7 +98,7 @@ If you want, I can **export this exact manifest as a Markdown file** and save it
 
 ---
 ## Sources (selected)
-- LangChain repo & docs. citeturn0search0turn0search8  
+- LangChain repo & docs.( citeturn0search0turn0search8  )
 - Hugging Face Transformers quickstart & Datasets. citeturn0search1turn0search7  
 - PEFT repo. citeturn0search2  
 - OpenAI Cookbook. citeturn0search3  
