@@ -1,6 +1,6 @@
 # Machine Learning Mastery Roadmap
 
-## Phase 1: Mathematical Foundations (2-3 months)
+## Phase 1: Mathematical Foundations 
 
 ### 1.1 Linear Algebra
 - **Core Topics:**
@@ -67,7 +67,7 @@
 
 ---
 
-## Phase 2: Programming Foundations (1-2 months)
+## Phase 2: Programming Foundations
 
 ### 2.1 Python Programming
 - **Core Topics:**
@@ -124,8 +124,7 @@
 
 ---
 
-## Phase 3: Machine Learning Fundamentals (3-4 months)
-
+## Phase 3: Machine Learning Fundamentals
 ### 3.1 ML Basics and Concepts
 - **Core Topics:**
   - What is machine learning?
@@ -213,7 +212,7 @@
 
 ---
 
-## Phase 4: Deep Learning (3-4 months)
+## Phase 4: Deep Learning 
 
 ### 4.1 Neural Networks Fundamentals
 - **Core Topics:**
@@ -319,7 +318,7 @@
 
 ---
 
-## Phase 5: Natural Language Processing (2-3 months)
+## Phase 5: Natural Language Processing 
 
 ### 5.1 NLP Fundamentals
 - **Core Topics:**
@@ -550,12 +549,12 @@
 
 ## Recommended Learning Path
 
-**Months 1-3:** Mathematical foundations (linear algebra, calculus, probability)
-**Months 2-4:** Python programming and essential libraries
-**Months 4-7:** ML fundamentals and classical ML algorithms
-**Months 7-10:** Deep learning and neural networks
-**Months 10-12:** Specialized topics (NLP, Computer Vision, or RL)
-**Months 12+:** Advanced topics, MLOps, and continuous learning
+**1:** Mathematical foundations (linear algebra, calculus, probability)
+**2:** Python programming and essential libraries
+**3:** ML fundamentals and classical ML algorithms
+**4:** Deep learning and neural networks
+**5:** Specialized topics (NLP, Computer Vision, or RL)
+**6:** Advanced topics, MLOps, and continuous learning
 
 ## Study Tips:
 1. Learn by doing - implement algorithms from scratch
@@ -569,4 +568,3 @@
 9. Don't get stuck in tutorial hell - build original projects
 10. Focus on understanding concepts, not memorizing code
 
-**Time Estimate:** 12-18 months for solid foundation, lifetime for mastery
